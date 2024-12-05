@@ -1,1 +1,2 @@
-Hello welcome to new Project
+Hello welcome to new Project,
+Welcome to DevOps class
